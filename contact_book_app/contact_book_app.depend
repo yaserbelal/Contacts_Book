@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1730403296 source:c:\users\dell\documents\data_structure\contact_book_app\main.cpp
+	<iostream>
+	"Contact_Book.h"
+	<iomanip>
+
+1730387158 source:c:\users\dell\documents\data_structure\contact_book_app\src\address.cpp
+	"Address.h"
+	<iostream>
+	<string>
+	<iomanip>
+
+1730399604 c:\users\dell\documents\data_structure\contact_book_app\include\address.h
+	<iostream>
+	<string>
+
+1730401323 source:c:\users\dell\documents\data_structure\contact_book_app\src\person.cpp
+	"Person.h"
+	<iostream>
+	<regex>
+	<iomanip>
+
+1730444669 c:\users\dell\documents\data_structure\contact_book_app\include\person.h
+	<iostream>
+	<string>
+	"Address.h"
+
+1728939359 source:c:\users\dell\documents\data_structure\contact_book_app\src\arrayds.cpp
+	"ArrayDS.h"
+
+1730444087 c:\users\dell\documents\data_structure\contact_book_app\include\arrayds.h
+	<iostream>
+	<stdexcept>
+	<iostream>
+	<algorithm>
+	<cassert>
+
+1730446277 source:c:\users\dell\documents\data_structure\contact_book_app\src\contact_book.cpp
+	"Contact_Book.h"
+	<iomanip>
+	<fstream>
+	<iostream>
+
+1730399604 c:\users\dell\documents\data_structure\contact_book_app\include\contact_book.h
+	"ArrayDS.h"
+	"Person.h"
+
